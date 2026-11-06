@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Galang Tangguh 2026 - Latihan Pramuka Penggalang",
+  "description": "Game kuis interaktif persiapan Lomba Galang Tangguh Pramuka Penggalang 2026 Kwarran Kemranjen Banyumas berdasar SKU dan PUPK lengkap dengan pembahasan instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
